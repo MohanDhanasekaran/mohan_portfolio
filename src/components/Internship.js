@@ -7,7 +7,7 @@ const Interships = () => {
     <div className="bg-neutral-50 px-3">
       <div id="certification" className=" max-w-6xl md:px-10  py-20 m-auto">
         <h1 className="text-2xl text-center lg:text-start font-bold text-blue-600 my-5">
-          INTERNSHIP
+          EXPERIENCE
         </h1>
         <div className="space-y-10">
           {INTERNSHIP.map((intership) => (
@@ -36,7 +36,7 @@ const Interships = () => {
                   target="_blank"
                   className="flex justify-center hover:text-fuchsia-700 font-semibold gap-3 items-center text-xl"
                 >
-                  Intership
+                  Experience
                   <BiLinkExternal className="animate-bounce text-fuchsia-800 text-2xl" />
                 </a>
               </div>

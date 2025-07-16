@@ -16,9 +16,9 @@ function IntershipsObj(id, title, url, description, image) {
 const INTERNSHIP = [
   IntershipsObj(
     1,
-    "Frontend Developer Intern",
-    "https://drive.google.com/file/d/11chyDu0zA4XOVqzhZqfL59CWNgwuAs9c/view?usp=drivesdk",
-    "I completed my Front-End Developer internship at Necurity Solution, where I worked on real-time projects using ReactJS and modern web technologies. Collaborating with the team enhanced my understanding of UI/UX design and responsive development. This experience sharpened my skills in HTML, CSS, JavaScript, ReactJs within practical scenarios. It played a key role in building my confidence and shaping me as a developer ready for full-stack roles.",
+    "Frontend Developer",
+    "https://drive.google.com/file/d/1Ebkcq7EV-YRbrvSt95hOY3epcZoc5NIg/view?usp=drivesdk",
+    "I worked as a Front-End Developer at Necurity Solution, where I contributed to real-time projects using ReactJS and modern web technologies. Collaborating closely with the team helped me deepen my understanding of UI/UX design principles and responsive development. During this period, I strengthened my practical skills in HTML, CSS, JavaScript, and ReactJS. This experience played a significant role in boosting my confidence and preparing me for full-stack development roles.",
     frontEnd
   ),
 ];
