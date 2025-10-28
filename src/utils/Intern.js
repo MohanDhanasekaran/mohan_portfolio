@@ -1,5 +1,5 @@
 // import react from "../images/certificates/react-certificate.png";
-import frontEnd from "../images/certificates/Internship.jpg";
+import frontEnd from "../images/certificates/Intership1.png";
 // import javascript from "../images/certificates/Namaste-javascript.webp";
 // import reactBasics from "../images/certificates/react-basics.png";
 
@@ -17,8 +17,8 @@ const INTERNSHIP = [
   IntershipsObj(
     1,
     "Frontend Developer",
-    "https://drive.google.com/file/d/1Ebkcq7EV-YRbrvSt95hOY3epcZoc5NIg/view?usp=drivesdk",
-    "I worked as a Front-End Developer at Necurity Solution, where I contributed to real-time projects using ReactJS and modern web technologies. Collaborating closely with the team helped me deepen my understanding of UI/UX design principles and responsive development. During this period, I strengthened my practical skills in HTML, CSS, JavaScript, and ReactJS. This experience played a significant role in boosting my confidence and preparing me for full-stack development roles.",
+    "https://drive.google.com/file/d/1_GNIWuNcng1sfjzQQpc6NxmNmU2xV4AV/view?usp=sharing",
+    "I have over 1 year and 2 months of experience working as a Front-End Developer at Necurity Solution, where I contributed to real-time projects using ReactJS and modern web technologies. Collaborating closely with the team helped me deepen my understanding of UI/UX design principles and responsive development. During this period, I strengthened my practical skills in HTML, CSS, JavaScript, and ReactJS. This hands-on experience played a significant role in boosting my confidence and preparing me for full-stack development roles.",
     frontEnd
   ),
 ];
